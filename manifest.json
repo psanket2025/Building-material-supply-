@@ -1,4 +1,5 @@
 {
+  {
   "name": "Building Material Ledger",
   "short_name": "Khata",
   "description": "Building Material Supply Digital Ledger",
@@ -6,12 +7,7 @@
   "display": "standalone",
   "background_color": "#EBE8E1",
   "theme_color": "#161C24",
-  "orientation": "portrait",
-  "icons": [
-    {
-      "src": "icons/icon-72.png",
-      "sizes": "72x72",
-      "type": "image/png"
+  "orientation": "portrait"
     },
     {
       "src": "icons/icon-96.png",
